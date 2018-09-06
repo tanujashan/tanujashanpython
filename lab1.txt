@@ -1,0 +1,14 @@
+1.first we opened the terminal 
+2.used pwd to make sure its our account
+3.used mkdir and our name to create a directory 
+4.used ls to open the files present 
+and ls means listing of files 
+4.green colour is for files and blue colour is for folders
+5.used man and some commands like -ls,-a...
+6.cd is used for changing the directory 
+7.sublime editor can be started by using "subl"
+and a new screen is opened
+8.start with print("---")in sublime editor
+9.we saved it in our name as first.py
+10.and we used cd tanuja 
+pythin first.py 
